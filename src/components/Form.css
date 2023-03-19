@@ -1,0 +1,30 @@
+.input{
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 6vh;
+    width: 30vw;
+    outline: none;
+    border: 1px solid #aed30c;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    color: #fff;
+}
+
+button{
+    width: 15.5vw;
+    height: 9vh;
+    border: 1px solid;
+    background:  #aed30c;
+    color: #ffffff;
+    border: none;
+    padding: 0.55rem;
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3px;
+}
